@@ -1,1 +1,9 @@
+1. nbextensions set up
+
+!conda install -conda conda-forge jupyter_contrib_nbextensions
+!pip install jupyter_contrib_nbextensions
+!jupyter contrib nbextension install --user
+
+
+2. autopep8 cannot set up
 
